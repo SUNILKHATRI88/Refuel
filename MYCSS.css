@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+header
+{
+	height:50px;
+	background:yellow;	
+	position:relative;
+}
+
+footer
+{
+	height:50px;
+	background:yellow;
+	position:relative;
+}
+
+.lbl
+    {
+        text-align: right;
+        width: 100px;
+        white-space: nowrap;
+    }
+.fld 
+    {
+        width: 100%;
+    }
+
+.frm 
+    {
+        display: inline-block;
+    }
+
+
